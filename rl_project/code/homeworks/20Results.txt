@@ -1,0 +1,281 @@
+Enter problem number to solve: 3
+200006
+dimension= 1
+numActions= 2
+order= 1
+totalEpisodes= 200000
+initial_theta= [0.01, -0.01, 1.0, 1.0]
+pi= [0.775818, 0.197512, 0.878759, 0.819091, 0.345012]
+firstEpisode= [array([0.419908]), 1, 0.992628, array([0.366283]), 0, 10.0, array([0.0622811]), 1, 2.98566, array([0.327772]), 1, 1.69524, array([0.612293]), 0, 6.10134]
+rewards= 0.815277044
+100000
+initial mean=  0.9858477873899087
+None -1
+firsttheta: [[ 0.01 -0.01]
+ [ 1.    1.  ]] Reward: 0.9858477873899087 Std: 6.831269083713846 condition: 0.9147816570159446
+positive 0
+positive 1
+positive 2
+positive 3
+positive 4
+negative 0
+negative 1
+negative 2
+negative 3
+negative 4
+None -1
+Step: 0 theta: [[ 0.16913625 -0.03466514]
+ [ 0.90537612  1.02422229]] Reward: 1.5653745534501957 Std: 7.571765093404668 condition: 1.4866049955986715
+positive 0
+positive 1
+positive 2
+positive 3
+positive 4
+negative 0
+negative 1
+negative 2
+negative 3
+negative 4
+None -1
+Step: 1 theta: [[ 0.4182286  -0.06775548]
+ [ 0.85039276  0.96971059]] Reward: 2.3971783298017786 Std: 9.429187381985681 condition: 2.299085888763805
+positive 0
+positive 1
+positive 2
+positive 3
+positive 4
+negative 0
+negative 1
+negative 2
+negative 3
+negative 4
+None -1
+Step: 2 theta: [[ 0.5428035  -0.06574768]
+ [ 0.73737778  0.91029317]] Reward: 3.156014687329279 Std: 11.943157681309572 condition: 3.0317692520440205
+positive 0
+positive 1
+positive 2
+positive 3
+positive 4
+negative 0
+negative 1
+negative 2
+negative 3
+negative 4
+None -1
+Step: 3 theta: [[ 0.60023029 -0.02691116]
+ [ 0.51823453  0.87411501]] Reward: 4.14708159191287 Std: 16.6007770066536 condition: 3.974382644088292
+positive 0
+positive 1
+positive 2
+positive 3
+positive 4
+negative 0
+negative 1
+negative 2
+negative 3
+negative 4
+None -1
+Step: 4 theta: [[ 0.73898338 -0.03915429]
+ [ 0.41411884  0.82154815]] Reward: 5.085480945164007 Std: 22.832253857177356 condition: 4.847955544032614
+positive 0
+positive 1
+positive 2
+positive 3
+positive 4
+negative 0
+negative 1
+negative 2
+negative 3
+negative 4
+None -1
+Step: 5 theta: [[ 0.86217107 -0.13613043]
+ [ 0.32378867  0.7857216 ]] Reward: 5.907938317651538 Std: 29.678751256267127 condition: 5.599188365004719
+positive 0
+positive 1
+positive 2
+positive 3
+positive 4
+negative 0
+negative 1
+negative 2
+negative 3
+negative 4
+None -1
+Step: 6 theta: [[ 0.95313079 -0.03042839]
+ [ 0.22161707  0.67551959]] Reward: 6.782172714507592 Std: 41.92586467458673 condition: 6.346015255550415
+positive 0
+positive 1
+positive 2
+positive 3
+positive 4
+negative 0
+negative 1
+negative 2
+negative 3
+negative 4
+None -1
+Step: 7 theta: [[0.96850453 0.01740918]
+ [0.09507176 0.57309262]] Reward: 7.43421209716542 Std: 54.2946274429049 condition: 6.869381605908356
+positive 0
+positive 1
+positive 2
+positive 3
+positive 4
+negative 0
+negative 1
+negative 2
+negative 3
+negative 4
+None -1
+Step: 8 theta: [[ 1.08208357  0.00539848]
+ [-0.06198662  0.56297053]] Reward: 8.511138108605467 Std: 76.23507130597548 condition: 7.718059772778366
+positive 0
+positive 1
+positive 2
+positive 3
+positive 4
+negative 0
+negative 1
+negative 2
+negative 3
+negative 4
+None -1
+Step: 9 theta: [[ 1.30437648 -0.02607334]
+ [-0.07752589  0.60539582]] Reward: 9.361788260690536 Std: 96.3562487916946 condition: 8.35938802508835
+positive 0
+positive 1
+positive 2
+positive 3
+positive 4
+negative 0
+negative 1
+negative 2
+negative 3
+negative 4
+None -1
+Step: 10 theta: [[ 1.3969757  -0.03294949]
+ [-0.18615318  0.54968481]] Reward: 10.095105291145316 Std: 119.85205778723484 condition: 8.848276647752897
+positive 0
+positive 1
+positive 2
+positive 3
+positive 4
+negative 0
+negative 1
+negative 2
+negative 3
+negative 4
+None -1
+Step: 11 theta: [[ 1.4726118   0.06914727]
+ [-0.350479    0.51339478]] Reward: 10.939464631004503 Std: 153.5749242910194 condition: 9.341814844692202
+positive 0
+positive 1
+positive 2
+positive 3
+positive 4
+negative 0
+negative 1
+negative 2
+negative 3
+negative 4
+None -1
+Step: 12 theta: [[ 1.58873913  0.10399715]
+ [-0.44982282  0.59906031]] Reward: 11.523543686780659 Std: 175.7841255041089 condition: 9.694850155950398
+positive 0
+positive 1
+positive 2
+positive 3
+positive 4
+negative 0
+negative 1
+negative 2
+negative 3
+negative 4
+None -1
+Step: 13 theta: [[ 1.65728214  0.11927556]
+ [-0.51124601  0.62641855]] Reward: 11.851860935545242 Std: 189.72709871495402 condition: 9.878117760225804
+positive 0
+positive 1
+positive 2
+positive 3
+positive 4
+negative 0
+negative 1
+negative 2
+negative 3
+negative 4
+None -1
+Step: 14 theta: [[ 1.83734252  0.15010788]
+ [-0.53417177  0.64358745]] Reward: 12.329154213873002 Std: 212.08418589308363 condition: 10.122828826857218
+positive 0
+positive 1
+positive 2
+positive 3
+positive 4
+negative 0
+negative 1
+negative 2
+negative 3
+negative 4
+None -1
+Step: 15 theta: [[ 1.98783741  0.07489459]
+ [-0.59147677  0.7007823 ]] Reward: 12.692506315651867 Std: 227.00347916381526 condition: 10.330974563951527
+positive 0
+positive 1
+positive 2
+positive 3
+positive 4
+negative 0
+negative 1
+negative 2
+negative 3
+negative 4
+None -1
+Step: 16 theta: [[ 2.07808416  0.08707334]
+ [-0.69743728  0.67882515]] Reward: 13.053389677744939 Std: 246.56198645306162 condition: 10.48838952040802
+positive 0
+positive 1
+positive 2
+positive 3
+positive 4
+negative 0
+negative 1
+negative 2
+negative 3
+negative 4
+None -1
+Step: 17 theta: [[ 2.15701178  0.12174972]
+ [-0.7653582   0.74923526]] Reward: 13.268264905331376 Std: 257.5587933650589 condition: 10.588864260452773
+positive 0
+positive 1
+positive 2
+positive 3
+positive 4
+negative 0
+negative 1
+negative 2
+negative 3
+negative 4
+None -1
+Step: 18 theta: [[ 2.21686928  0.13186987]
+ [-0.81952969  0.72178556]] Reward: 13.440581866060711 Std: 267.8218785727095 condition: 10.654413687585043
+positive 0
+positive 1
+positive 2
+positive 3
+positive 4
+negative 0
+negative 1
+negative 2
+negative 3
+negative 4
+None -1
+Step: 19 theta: [[ 2.32091001  0.28636922]
+ [-0.99284319  0.70911084]] Reward: 13.811989352680415 Std: 291.36821204057287 condition: 10.780867157088752
+None -1
+[[ 2.32091001  0.28636922]
+ [-0.99284319  0.70911084]]
+[[ 2.32091001  0.28636922]
+ [-0.99284319  0.70911084]]
+final rewards = Reward: 13.4514792500433 Std: 275.7667276985415 condition: 12.017069773321909
